@@ -1,0 +1,60 @@
+Let A = {c, d, f, g}, B = {f, j}, and C = {d, g}. B is a subset of A. (t/f)
+f
+"Fix my ceiling or I won't pay my rent." in if-then form is "If I won't pay my rent, then you won't fix my ceiling." (t/f)
+f
+The decimal integer 45 in binary notation is 101101. (t/f)
+t
+The binary integer 111010 in decimal notation is 14. (t/f)
+f
+"Some dogs are disloyal" is a negation for “All dogs are loyal”. (t/f)
+t
+"All estimates are inaccurate" is an informal negation for the statement “Some estimates are accurate". (t/f)
+t
+Let G(x, y) be "x^2 > y." Is this statement true or false?: G(6, 37). (t/f)
+f
+If x = 7, 1/6 is a value of y that makes the predicate "xy = 1" true. (t/f)
+f
+If a then b. Therefore if ~b, then ~a (according to universal modus tollens). (t/f)
+t
+You can prove a number is irrational by writing it as a ratio of two integers. (t/f)
+f
+2/3 + 2/7 is a rational number because it equals 20/21 when written as a ratio of two integers. (t/f)
+t
+5.8053 is a rational number because it equals 58053/1000 when written as a ratio of two integers. (t/f)
+f
+If n=60 and d=9, q and r such that n = dq + r and 0 ≤ r < d are: q=6 r=6. (t/f)
+t
+187 written as a product of prime numbers is 11*13. (t/f)
+f
+"For every number r, s is true." A negation of this statement is "There exists a number r such that s is not true". (t/f)
+t
+When tossing a coin three times in a row, the probability that AT LEAST one toss will be heads is 7/8. (t/f)
+t
+If a combination lock requires three selections of numbers, each from 1 through 20, the number of possible combinations is 8000(with repeats allowed). (t/f)
+t
+If a combination lock requires three selections of numbers, each from 1 through 20, the number of possible combinations (without repeat numbers) is 8000. (t/f)
+f
+A walk is a sequence of alternating adjacent vertices. (t/f)
+t
+A trail is a walk with repeated edges. (t/f)
+f
+A path is a walk with no repeated vertices. (t/f)
+t
+A closed walk is a walk that starts and ends at the same vertex. (t/f)
+t
+A circuit is a closed walk with repeated edges. (t/f)
+f
+A simple circuit is a circuit that contains no repeated vertices except the first and last. (t/f)
+t
+A Hamiltonian circuit contains every vertex of the graph it is in. (t/f)
+t
+A graph is a tree if and only if it is both circuit-free and connected. (t/f)
+t
+In a rooted tree, the level of a vertex is the number of edges along the unique path between said vertex and the root. (t/f)
+t
+The height of a rooted tree is the minimum level of any vertex of the tree. (t/f)
+f
+A child in a rooted tree is a node extending from another node. (t/f)
+t
+A parent in a rooted tree is a node with no nodes extending from it. (t/f)
+f
